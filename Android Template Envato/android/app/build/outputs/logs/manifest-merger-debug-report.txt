@@ -1,0 +1,1046 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:1-116:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/65c8c2e035fad0adada457b7724a0957/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] /home/stano/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/113ce5f7d402e970408fd6b1c050932c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/e8994b61dbd57d9e0f6a38e9c0a1cc49/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/5124e81685143db0a75702d161f632c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/320acb241bea073da634a3e0bab6c269/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/99b1a3e205c0e4cecedcee42755a8f67/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/96774ed9492e6e1ed293236c5e8e47af/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/ae5cd8ba58eb4a5cf53c1b23a8bb5fd2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/c4091e6f9b01caa92386943d332c8a8e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/d9037253776a4930f7978c957361f82c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/8031ed6406a5f9c8da119439b45a795a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/0a320d4aa9f5fa1f9eefb20a960a2092/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/458eb80c68d3281249e41ff1fa259f43/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98ac9eff362f969f0e338bd2422a0832/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/ce393f1b32b55345cba434afa1f0de42/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/ffd17198a41b2f3315950cadb58b22e1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/2ab36d895ae44ac37099ed6a7623d534/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/97cf3f909f9ddeae8aab5f09436fc08c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/ab4327c589c8f2a85cce5f60097b654b/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/179d36c1b2eb0b22e45f6f754c3d080e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/f39b669b42df8578e8d7f3270685c71a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/eba3a0f201d9c3189dd801e533dc692d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/a6d966fe1ad0f434a6e90b8ce035c325/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e50ade902ebeacf657ef6c01a74e60e7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/7285c633fe41d51ab8398dff2d2325f4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/050b14ebb37a0d9224bac67ec679b8c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/7d666d37b16c85d68f34ff380a0527d8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/adf8cedc3ff85c3e10a326424b9ae4b8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/271913341547cf1dfd9b07c7a50cd4f8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/68cea066bd277f8dada475be017ab97c/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/c585591d3d8e87033acdef17e3b565d5/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/70227dc6aaeb87388a4fee0ba648e09d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/4596ec3766f6a7c0584258eecc68d1d9/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/743db41fe3acf5119a80124ecdd58b00/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/c5ceb63c2f6241a735fb7d0b980c9967/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/caf49b3c8e9ae80e5e06df315e444010/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/54228fc71cd700c156153ca3566b3f0a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/f9688ef0fb92efe0a0eca5f288de817d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/6b155254b5728422bddc57f7ad3fe207/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/be2a313760c08d65fbd3d4c66336e5cf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/4a5fe85ed5e62a1fcd1a790e9fbe352a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/7e5c37660261e2a4cfe878b2a8ca291b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/959de5d43e03d6c8bfee9ea532c75c02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/c633c156d3e1300de7e47185384b68da/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/49dfebe3576c1ddfd821ff1dc3988bac/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b21cf21ecc56f9152c73b6f00d5d3657/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/459f32fe4c0b4667d5fb43d0d9ec918b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8262ed74e25526c4c749316128f39327/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/d1fdb5abef30653d3ac0e5b82b8abb7b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/76508f9624e086489412c777b4151a6b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/7f64fe0774879a682b59097458e06429/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/b214d82381975d82529172645064bce0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/4b4ccfb0babf25413598f384a78edc29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/e9b452f05be723d61dc1b370980f83a3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/cd6abcef181a2f7f2235f83cceb32b82/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/6f877eef07cf30734d939553b92ef1aa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/15c2d0a6fc85e128a4bfd699fd7b61a4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/177bc1f49f873d79e1c0084b9f3fef38/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/2d3fb5fa272f12d3b3cbd9f0147b3143/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/8c7809a31a4349d9c8cd4c784f8aa202/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/dfa77c4c43598063a305470fb3a9f2df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/99ccd936cf09d7d3f9b447553f1b09bc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/42db78cfd50c63665357eb30322811ab/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/e3086f9249131b549f0c7e58fc63ce4a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/271797d09692efd897a35928024683f7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/379cb83430a7233d80cc55e039a3a6e8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/ad6fb2889c8684c0f0378e6c76647569/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/615262991765d06d12f45c6fd33ff2df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/dd58632a81121502ec1f85c7d6418d58/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/c567809cc038708466d5837e847ee2ab/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/88c6069357aaec76f1e443ec80269521/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/536ab0f1a62f389361232d115b14f073/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/37f1e6a95f25a8fef56c618dc6cea28a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/f471898fc18e02773df85a9cabccdfb5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/4b228d76dea0ee0ba1245d9da02b6cdc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/89b7869b21c001db2064b3501da06acc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/49d1ec4668d9e11223eca74b194a519a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/33360176a1a22517d72062aeada66b91/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/66746954488386aba65553e4cce46657/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/e0de44518d0cf643f3bee50158bf88e6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a5ea027a05fe00892f3a82c5c10b3fd7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/6faa563f73a42a8d865954c21cbd0cd3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/cd2f83be7f5f041dc02aebf72b910bcd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/2e8506dfad4fac18075f0b23be812eaf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7b0b9f58218e0babaab7bfe0b8ee6af9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/17ba5269ac7c05547f788b17706cf4cb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/6d1e197cf98b08977c7b9015543a487c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:palette-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/80d4c03dbb9f5fe3d61e8765125406a5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e0eaac0644c78354486fe551d53d27e2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ebd4d0fc41dbf680b314ff1078c08bbb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c1c6f129688f70a69d4fe4b0c654ba37/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e8708da28d8e43e30057c9141016ddd9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fdc035b93f4c5ff351fd219572028604/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ccd4f2f7b48d63a8b439639b00fa5d65/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0da20bba6e4d9a5f682b3b9c60a47947/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/5d09ed479fd26abc0edae2e4fa07b8bd/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:1-116:12
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:1-116:12
+	package
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:7:5-73
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:7:5-73
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:7:5-73
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/65c8c2e035fad0adada457b7724a0957/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/65c8c2e035fad0adada457b7724a0957/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/stano/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/113ce5f7d402e970408fd6b1c050932c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/stano/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/113ce5f7d402e970408fd6b1c050932c/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/e8994b61dbd57d9e0f6a38e9c0a1cc49/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/e8994b61dbd57d9e0f6a38e9c0a1cc49/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/5124e81685143db0a75702d161f632c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/5124e81685143db0a75702d161f632c9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/320acb241bea073da634a3e0bab6c269/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/320acb241bea073da634a3e0bab6c269/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/99b1a3e205c0e4cecedcee42755a8f67/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/99b1a3e205c0e4cecedcee42755a8f67/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/96774ed9492e6e1ed293236c5e8e47af/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/96774ed9492e6e1ed293236c5e8e47af/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/ae5cd8ba58eb4a5cf53c1b23a8bb5fd2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/ae5cd8ba58eb4a5cf53c1b23a8bb5fd2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/c4091e6f9b01caa92386943d332c8a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/c4091e6f9b01caa92386943d332c8a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/d9037253776a4930f7978c957361f82c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/d9037253776a4930f7978c957361f82c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/8031ed6406a5f9c8da119439b45a795a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/8031ed6406a5f9c8da119439b45a795a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/0a320d4aa9f5fa1f9eefb20a960a2092/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/0a320d4aa9f5fa1f9eefb20a960a2092/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/458eb80c68d3281249e41ff1fa259f43/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/458eb80c68d3281249e41ff1fa259f43/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98ac9eff362f969f0e338bd2422a0832/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98ac9eff362f969f0e338bd2422a0832/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/ce393f1b32b55345cba434afa1f0de42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/ce393f1b32b55345cba434afa1f0de42/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/ffd17198a41b2f3315950cadb58b22e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/ffd17198a41b2f3315950cadb58b22e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/2ab36d895ae44ac37099ed6a7623d534/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/2ab36d895ae44ac37099ed6a7623d534/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/97cf3f909f9ddeae8aab5f09436fc08c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/97cf3f909f9ddeae8aab5f09436fc08c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/ab4327c589c8f2a85cce5f60097b654b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/ab4327c589c8f2a85cce5f60097b654b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/179d36c1b2eb0b22e45f6f754c3d080e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/179d36c1b2eb0b22e45f6f754c3d080e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/f39b669b42df8578e8d7f3270685c71a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/f39b669b42df8578e8d7f3270685c71a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/eba3a0f201d9c3189dd801e533dc692d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/eba3a0f201d9c3189dd801e533dc692d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/a6d966fe1ad0f434a6e90b8ce035c325/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/a6d966fe1ad0f434a6e90b8ce035c325/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e50ade902ebeacf657ef6c01a74e60e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e50ade902ebeacf657ef6c01a74e60e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/7285c633fe41d51ab8398dff2d2325f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/7285c633fe41d51ab8398dff2d2325f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/050b14ebb37a0d9224bac67ec679b8c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/050b14ebb37a0d9224bac67ec679b8c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/7d666d37b16c85d68f34ff380a0527d8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/7d666d37b16c85d68f34ff380a0527d8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/adf8cedc3ff85c3e10a326424b9ae4b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/adf8cedc3ff85c3e10a326424b9ae4b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/271913341547cf1dfd9b07c7a50cd4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/271913341547cf1dfd9b07c7a50cd4f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/68cea066bd277f8dada475be017ab97c/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/68cea066bd277f8dada475be017ab97c/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/c585591d3d8e87033acdef17e3b565d5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/c585591d3d8e87033acdef17e3b565d5/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/70227dc6aaeb87388a4fee0ba648e09d/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/70227dc6aaeb87388a4fee0ba648e09d/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/4596ec3766f6a7c0584258eecc68d1d9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/4596ec3766f6a7c0584258eecc68d1d9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/743db41fe3acf5119a80124ecdd58b00/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/743db41fe3acf5119a80124ecdd58b00/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/c5ceb63c2f6241a735fb7d0b980c9967/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/c5ceb63c2f6241a735fb7d0b980c9967/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/caf49b3c8e9ae80e5e06df315e444010/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/caf49b3c8e9ae80e5e06df315e444010/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/54228fc71cd700c156153ca3566b3f0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/54228fc71cd700c156153ca3566b3f0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/f9688ef0fb92efe0a0eca5f288de817d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/f9688ef0fb92efe0a0eca5f288de817d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/6b155254b5728422bddc57f7ad3fe207/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/6b155254b5728422bddc57f7ad3fe207/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/be2a313760c08d65fbd3d4c66336e5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/be2a313760c08d65fbd3d4c66336e5cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/4a5fe85ed5e62a1fcd1a790e9fbe352a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/4a5fe85ed5e62a1fcd1a790e9fbe352a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/7e5c37660261e2a4cfe878b2a8ca291b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/7e5c37660261e2a4cfe878b2a8ca291b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/959de5d43e03d6c8bfee9ea532c75c02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/959de5d43e03d6c8bfee9ea532c75c02/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/c633c156d3e1300de7e47185384b68da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/c633c156d3e1300de7e47185384b68da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/49dfebe3576c1ddfd821ff1dc3988bac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/49dfebe3576c1ddfd821ff1dc3988bac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b21cf21ecc56f9152c73b6f00d5d3657/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b21cf21ecc56f9152c73b6f00d5d3657/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/459f32fe4c0b4667d5fb43d0d9ec918b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/459f32fe4c0b4667d5fb43d0d9ec918b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8262ed74e25526c4c749316128f39327/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8262ed74e25526c4c749316128f39327/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/d1fdb5abef30653d3ac0e5b82b8abb7b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/d1fdb5abef30653d3ac0e5b82b8abb7b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/76508f9624e086489412c777b4151a6b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/76508f9624e086489412c777b4151a6b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/7f64fe0774879a682b59097458e06429/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/7f64fe0774879a682b59097458e06429/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/b214d82381975d82529172645064bce0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/b214d82381975d82529172645064bce0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/4b4ccfb0babf25413598f384a78edc29/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/4b4ccfb0babf25413598f384a78edc29/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/e9b452f05be723d61dc1b370980f83a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/e9b452f05be723d61dc1b370980f83a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/cd6abcef181a2f7f2235f83cceb32b82/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/cd6abcef181a2f7f2235f83cceb32b82/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/6f877eef07cf30734d939553b92ef1aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/6f877eef07cf30734d939553b92ef1aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/15c2d0a6fc85e128a4bfd699fd7b61a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/15c2d0a6fc85e128a4bfd699fd7b61a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/177bc1f49f873d79e1c0084b9f3fef38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/177bc1f49f873d79e1c0084b9f3fef38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/2d3fb5fa272f12d3b3cbd9f0147b3143/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/2d3fb5fa272f12d3b3cbd9f0147b3143/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/8c7809a31a4349d9c8cd4c784f8aa202/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/8c7809a31a4349d9c8cd4c784f8aa202/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/dfa77c4c43598063a305470fb3a9f2df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/dfa77c4c43598063a305470fb3a9f2df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/99ccd936cf09d7d3f9b447553f1b09bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/99ccd936cf09d7d3f9b447553f1b09bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/42db78cfd50c63665357eb30322811ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/42db78cfd50c63665357eb30322811ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/e3086f9249131b549f0c7e58fc63ce4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/e3086f9249131b549f0c7e58fc63ce4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/271797d09692efd897a35928024683f7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/271797d09692efd897a35928024683f7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/379cb83430a7233d80cc55e039a3a6e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/379cb83430a7233d80cc55e039a3a6e8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/ad6fb2889c8684c0f0378e6c76647569/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/ad6fb2889c8684c0f0378e6c76647569/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/615262991765d06d12f45c6fd33ff2df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/615262991765d06d12f45c6fd33ff2df/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/dd58632a81121502ec1f85c7d6418d58/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/dd58632a81121502ec1f85c7d6418d58/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/c567809cc038708466d5837e847ee2ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/c567809cc038708466d5837e847ee2ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/88c6069357aaec76f1e443ec80269521/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/88c6069357aaec76f1e443ec80269521/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/536ab0f1a62f389361232d115b14f073/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/536ab0f1a62f389361232d115b14f073/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/37f1e6a95f25a8fef56c618dc6cea28a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/37f1e6a95f25a8fef56c618dc6cea28a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/f471898fc18e02773df85a9cabccdfb5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/f471898fc18e02773df85a9cabccdfb5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/4b228d76dea0ee0ba1245d9da02b6cdc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/4b228d76dea0ee0ba1245d9da02b6cdc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/89b7869b21c001db2064b3501da06acc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/89b7869b21c001db2064b3501da06acc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/49d1ec4668d9e11223eca74b194a519a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/49d1ec4668d9e11223eca74b194a519a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/33360176a1a22517d72062aeada66b91/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/33360176a1a22517d72062aeada66b91/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/66746954488386aba65553e4cce46657/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/66746954488386aba65553e4cce46657/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/e0de44518d0cf643f3bee50158bf88e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/e0de44518d0cf643f3bee50158bf88e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a5ea027a05fe00892f3a82c5c10b3fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a5ea027a05fe00892f3a82c5c10b3fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/6faa563f73a42a8d865954c21cbd0cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/6faa563f73a42a8d865954c21cbd0cd3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/cd2f83be7f5f041dc02aebf72b910bcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/cd2f83be7f5f041dc02aebf72b910bcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/2e8506dfad4fac18075f0b23be812eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/2e8506dfad4fac18075f0b23be812eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7b0b9f58218e0babaab7bfe0b8ee6af9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7b0b9f58218e0babaab7bfe0b8ee6af9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/17ba5269ac7c05547f788b17706cf4cb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/17ba5269ac7c05547f788b17706cf4cb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/6d1e197cf98b08977c7b9015543a487c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/6d1e197cf98b08977c7b9015543a487c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/80d4c03dbb9f5fe3d61e8765125406a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/80d4c03dbb9f5fe3d61e8765125406a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e0eaac0644c78354486fe551d53d27e2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e0eaac0644c78354486fe551d53d27e2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ebd4d0fc41dbf680b314ff1078c08bbb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ebd4d0fc41dbf680b314ff1078c08bbb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c1c6f129688f70a69d4fe4b0c654ba37/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c1c6f129688f70a69d4fe4b0c654ba37/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e8708da28d8e43e30057c9141016ddd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e8708da28d8e43e30057c9141016ddd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fdc035b93f4c5ff351fd219572028604/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fdc035b93f4c5ff351fd219572028604/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ccd4f2f7b48d63a8b439639b00fa5d65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ccd4f2f7b48d63a8b439639b00fa5d65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0da20bba6e4d9a5f682b3b9c60a47947/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0da20bba6e4d9a5f682b3b9c60a47947/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/5d09ed479fd26abc0edae2e4fa07b8bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/5d09ed479fd26abc0edae2e4fa07b8bd/AndroidManifest.xml:20:5-44
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:7:5-73
+INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:7:5-73
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/e8994b61dbd57d9e0f6a38e9c0a1cc49/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:7:42-71
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:9:5-90:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/65c8c2e035fad0adada457b7724a0957/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/65c8c2e035fad0adada457b7724a0957/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/320acb241bea073da634a3e0bab6c269/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/320acb241bea073da634a3e0bab6c269/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/ae5cd8ba58eb4a5cf53c1b23a8bb5fd2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/ae5cd8ba58eb4a5cf53c1b23a8bb5fd2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/c4091e6f9b01caa92386943d332c8a8e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/c4091e6f9b01caa92386943d332c8a8e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/d9037253776a4930f7978c957361f82c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/d9037253776a4930f7978c957361f82c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/8031ed6406a5f9c8da119439b45a795a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/8031ed6406a5f9c8da119439b45a795a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/0a320d4aa9f5fa1f9eefb20a960a2092/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/0a320d4aa9f5fa1f9eefb20a960a2092/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/458eb80c68d3281249e41ff1fa259f43/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/458eb80c68d3281249e41ff1fa259f43/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98ac9eff362f969f0e338bd2422a0832/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98ac9eff362f969f0e338bd2422a0832/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/ce393f1b32b55345cba434afa1f0de42/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/ce393f1b32b55345cba434afa1f0de42/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/ffd17198a41b2f3315950cadb58b22e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/ffd17198a41b2f3315950cadb58b22e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/97cf3f909f9ddeae8aab5f09436fc08c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/97cf3f909f9ddeae8aab5f09436fc08c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/179d36c1b2eb0b22e45f6f754c3d080e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/179d36c1b2eb0b22e45f6f754c3d080e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/f39b669b42df8578e8d7f3270685c71a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/f39b669b42df8578e8d7f3270685c71a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/eba3a0f201d9c3189dd801e533dc692d/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/eba3a0f201d9c3189dd801e533dc692d/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/a6d966fe1ad0f434a6e90b8ce035c325/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/a6d966fe1ad0f434a6e90b8ce035c325/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e50ade902ebeacf657ef6c01a74e60e7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/e50ade902ebeacf657ef6c01a74e60e7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/7285c633fe41d51ab8398dff2d2325f4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/7285c633fe41d51ab8398dff2d2325f4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/050b14ebb37a0d9224bac67ec679b8c0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/050b14ebb37a0d9224bac67ec679b8c0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/7d666d37b16c85d68f34ff380a0527d8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/7d666d37b16c85d68f34ff380a0527d8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/adf8cedc3ff85c3e10a326424b9ae4b8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/adf8cedc3ff85c3e10a326424b9ae4b8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/271913341547cf1dfd9b07c7a50cd4f8/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/271913341547cf1dfd9b07c7a50cd4f8/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/743db41fe3acf5119a80124ecdd58b00/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/743db41fe3acf5119a80124ecdd58b00/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/c5ceb63c2f6241a735fb7d0b980c9967/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/c5ceb63c2f6241a735fb7d0b980c9967/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/caf49b3c8e9ae80e5e06df315e444010/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/caf49b3c8e9ae80e5e06df315e444010/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/54228fc71cd700c156153ca3566b3f0a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/54228fc71cd700c156153ca3566b3f0a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/f9688ef0fb92efe0a0eca5f288de817d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/f9688ef0fb92efe0a0eca5f288de817d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/6b155254b5728422bddc57f7ad3fe207/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/6b155254b5728422bddc57f7ad3fe207/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/be2a313760c08d65fbd3d4c66336e5cf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/be2a313760c08d65fbd3d4c66336e5cf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/4a5fe85ed5e62a1fcd1a790e9fbe352a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/4a5fe85ed5e62a1fcd1a790e9fbe352a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/7e5c37660261e2a4cfe878b2a8ca291b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/7e5c37660261e2a4cfe878b2a8ca291b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/959de5d43e03d6c8bfee9ea532c75c02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/959de5d43e03d6c8bfee9ea532c75c02/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/c633c156d3e1300de7e47185384b68da/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/c633c156d3e1300de7e47185384b68da/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/49dfebe3576c1ddfd821ff1dc3988bac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/49dfebe3576c1ddfd821ff1dc3988bac/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b21cf21ecc56f9152c73b6f00d5d3657/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b21cf21ecc56f9152c73b6f00d5d3657/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/459f32fe4c0b4667d5fb43d0d9ec918b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/459f32fe4c0b4667d5fb43d0d9ec918b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8262ed74e25526c4c749316128f39327/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/8262ed74e25526c4c749316128f39327/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/d1fdb5abef30653d3ac0e5b82b8abb7b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/d1fdb5abef30653d3ac0e5b82b8abb7b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/76508f9624e086489412c777b4151a6b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/76508f9624e086489412c777b4151a6b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/7f64fe0774879a682b59097458e06429/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/7f64fe0774879a682b59097458e06429/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/b214d82381975d82529172645064bce0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/b214d82381975d82529172645064bce0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/4b4ccfb0babf25413598f384a78edc29/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/4b4ccfb0babf25413598f384a78edc29/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/e9b452f05be723d61dc1b370980f83a3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/e9b452f05be723d61dc1b370980f83a3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/cd6abcef181a2f7f2235f83cceb32b82/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/cd6abcef181a2f7f2235f83cceb32b82/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/6f877eef07cf30734d939553b92ef1aa/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/6f877eef07cf30734d939553b92ef1aa/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/15c2d0a6fc85e128a4bfd699fd7b61a4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/15c2d0a6fc85e128a4bfd699fd7b61a4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/177bc1f49f873d79e1c0084b9f3fef38/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/177bc1f49f873d79e1c0084b9f3fef38/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/2d3fb5fa272f12d3b3cbd9f0147b3143/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/2d3fb5fa272f12d3b3cbd9f0147b3143/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/8c7809a31a4349d9c8cd4c784f8aa202/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/8c7809a31a4349d9c8cd4c784f8aa202/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/dfa77c4c43598063a305470fb3a9f2df/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/dfa77c4c43598063a305470fb3a9f2df/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/99ccd936cf09d7d3f9b447553f1b09bc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/99ccd936cf09d7d3f9b447553f1b09bc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/42db78cfd50c63665357eb30322811ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/42db78cfd50c63665357eb30322811ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/e3086f9249131b549f0c7e58fc63ce4a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/e3086f9249131b549f0c7e58fc63ce4a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/271797d09692efd897a35928024683f7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/271797d09692efd897a35928024683f7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/379cb83430a7233d80cc55e039a3a6e8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/379cb83430a7233d80cc55e039a3a6e8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/ad6fb2889c8684c0f0378e6c76647569/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/ad6fb2889c8684c0f0378e6c76647569/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/615262991765d06d12f45c6fd33ff2df/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/615262991765d06d12f45c6fd33ff2df/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/dd58632a81121502ec1f85c7d6418d58/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/dd58632a81121502ec1f85c7d6418d58/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/c567809cc038708466d5837e847ee2ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/c567809cc038708466d5837e847ee2ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/88c6069357aaec76f1e443ec80269521/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/88c6069357aaec76f1e443ec80269521/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/536ab0f1a62f389361232d115b14f073/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/536ab0f1a62f389361232d115b14f073/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/37f1e6a95f25a8fef56c618dc6cea28a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/37f1e6a95f25a8fef56c618dc6cea28a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/f471898fc18e02773df85a9cabccdfb5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/f471898fc18e02773df85a9cabccdfb5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/4b228d76dea0ee0ba1245d9da02b6cdc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/4b228d76dea0ee0ba1245d9da02b6cdc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/89b7869b21c001db2064b3501da06acc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/89b7869b21c001db2064b3501da06acc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/49d1ec4668d9e11223eca74b194a519a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/49d1ec4668d9e11223eca74b194a519a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/33360176a1a22517d72062aeada66b91/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/33360176a1a22517d72062aeada66b91/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/66746954488386aba65553e4cce46657/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/66746954488386aba65553e4cce46657/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/e0de44518d0cf643f3bee50158bf88e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/e0de44518d0cf643f3bee50158bf88e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a5ea027a05fe00892f3a82c5c10b3fd7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a5ea027a05fe00892f3a82c5c10b3fd7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/6faa563f73a42a8d865954c21cbd0cd3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/6faa563f73a42a8d865954c21cbd0cd3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/cd2f83be7f5f041dc02aebf72b910bcd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/cd2f83be7f5f041dc02aebf72b910bcd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/2e8506dfad4fac18075f0b23be812eaf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/2e8506dfad4fac18075f0b23be812eaf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7b0b9f58218e0babaab7bfe0b8ee6af9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7b0b9f58218e0babaab7bfe0b8ee6af9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/17ba5269ac7c05547f788b17706cf4cb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/17ba5269ac7c05547f788b17706cf4cb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/6d1e197cf98b08977c7b9015543a487c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/6d1e197cf98b08977c7b9015543a487c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/80d4c03dbb9f5fe3d61e8765125406a5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/80d4c03dbb9f5fe3d61e8765125406a5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e0eaac0644c78354486fe551d53d27e2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e0eaac0644c78354486fe551d53d27e2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ebd4d0fc41dbf680b314ff1078c08bbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ebd4d0fc41dbf680b314ff1078c08bbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c1c6f129688f70a69d4fe4b0c654ba37/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c1c6f129688f70a69d4fe4b0c654ba37/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e8708da28d8e43e30057c9141016ddd9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e8708da28d8e43e30057c9141016ddd9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fdc035b93f4c5ff351fd219572028604/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fdc035b93f4c5ff351fd219572028604/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ccd4f2f7b48d63a8b439639b00fa5d65/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ccd4f2f7b48d63a8b439639b00fa5d65/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0da20bba6e4d9a5f682b3b9c60a47947/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0da20bba6e4d9a5f682b3b9c60a47947/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/5d09ed479fd26abc0edae2e4fa07b8bd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/5d09ed479fd26abc0edae2e4fa07b8bd/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:9:18-50
+	android:icon
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:10:9-39
+	android:allowBackup
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:12:9-68
+meta-data#com.google.android.gms.version
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:14:9-15:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/caf49b3c8e9ae80e5e06df315e444010/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/caf49b3c8e9ae80e5e06df315e444010/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:15:13-66
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:14:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:16:9-17:46
+	android:value
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:16:20-70
+activity#com.nxtechnp.brokenwingsenvato.PTPlayer
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:20:13-45
+	android:configChanges
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:23:13-48
+	android:theme
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:22:13-71
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:19:19-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:37:9-39:64
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:38:13-122
+	android:theme
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:39:13-61
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:37:19-71
+activity#com.vungle.publisher.FullScreenAdActivity
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:40:9-43:74
+	android:configChanges
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:42:14-75
+	android:theme
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:43:14-72
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:41:14-70
+supports-screens
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:92:5-95:39
+	android:largeScreens
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:92:23-50
+	android:smallScreens
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:93:9-36
+	android:normalScreens
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:95:9-37
+	android:anyDensity
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:94:9-34
+uses-permission#android.permission.INTERNET
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:108:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/271913341547cf1dfd9b07c7a50cd4f8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/271913341547cf1dfd9b07c7a50cd4f8/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:108:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:110:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/7c2ffde07f477b4116133c7b6fed3b26/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/eba3a0f201d9c3189dd801e533dc692d/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/eba3a0f201d9c3189dd801e533dc692d/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:110:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:111:5-75
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:111:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:112:5-81
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:112:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:113:5-81
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:113:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:114:5-74
+	android:name
+		ADDED from /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/AndroidManifest.xml:114:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/4f5948ea4b246c4462dd9ef430f2dd65/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/7797c2668d0e100392c129e7a79f92bc/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:26:13-76
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/91fc70ad98aae668fbaa99e278732ff2/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/4e68be55bb97f88474aa0257ad659e35/AndroidManifest.xml:34:13-89
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/380d6bed26eebc44629b9ee9a88e46d0/AndroidManifest.xml:11:18-90
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/a5442bb7fe12a754e68c4fea020d3e3c/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/3135df44099123ea8b75bc19015b1e1e/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/f03c74e38d28cf97cf865b825b97b43c/AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/7debe8f03c7768139330e5444100079c/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/95d2376e6718ad05fd73ff9af2cdeaa5/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/4b58b5f37b9f76c3c7dcc43ee8d7c56e/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:33:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/7adb5e64fe5041fbf6913ce53bfa7c50/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f811d22fac5d681cc75bd9f50a0929d6/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/3993ec822798922a19822420c149fa6e/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:29:9-63
+permission#com.nxtechnp.brokenwingsenvato.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:32:22-76
+uses-permission#com.nxtechnp.brokenwingsenvato.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:39:13-43:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.nxtechnp.brokenwingsenvato
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:42:27-58
+category#com.nxtechnp.brokenwingsenvato
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/4818dbbef36a01eaeefaa3c1892a93f6/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/stano/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/85e40b9bc2a7df7ad12c56f2c0bbc7ba/AndroidManifest.xml:9:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b21cf21ecc56f9152c73b6f00d5d3657/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b21cf21ecc56f9152c73b6f00d5d3657/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/459f32fe4c0b4667d5fb43d0d9ec918b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/459f32fe4c0b4667d5fb43d0d9ec918b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/80d4c03dbb9f5fe3d61e8765125406a5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/80d4c03dbb9f5fe3d61e8765125406a5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e0eaac0644c78354486fe551d53d27e2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/e0eaac0644c78354486fe551d53d27e2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ebd4d0fc41dbf680b314ff1078c08bbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ebd4d0fc41dbf680b314ff1078c08bbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c1c6f129688f70a69d4fe4b0c654ba37/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/c1c6f129688f70a69d4fe4b0c654ba37/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e8708da28d8e43e30057c9141016ddd9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/e8708da28d8e43e30057c9141016ddd9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fdc035b93f4c5ff351fd219572028604/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/fdc035b93f4c5ff351fd219572028604/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ccd4f2f7b48d63a8b439639b00fa5d65/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ccd4f2f7b48d63a8b439639b00fa5d65/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0da20bba6e4d9a5f682b3b9c60a47947/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/0da20bba6e4d9a5f682b3b9c60a47947/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/stano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/1d878151dad5bffe286533ab120c31ad/AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/stano/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0dee3a1a27353f3584cbf1358177951f/AndroidManifest.xml:26:13-58

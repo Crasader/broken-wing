@@ -1,0 +1,7 @@
+#Thu Mar 07 12:47:14 EAT 2019
+base.0=/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/build/intermediates/transforms/dexMerger/debug/10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/build/intermediates/transforms/dexMerger/debug/10/classes2.dex
+base.1=/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/build/intermediates/transforms/dexMerger/debug/10
+file.0=/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex
