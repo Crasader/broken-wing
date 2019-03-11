@@ -32,5 +32,6 @@ dependencies {
     compile 'com.android.support:multidex:1.0.1'
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.google.android.gms:play-services-ads:11.6.0'
+    implementation 'com.google.android.gms:play-services-ads:17.1.1'
     // More deps here //
 }

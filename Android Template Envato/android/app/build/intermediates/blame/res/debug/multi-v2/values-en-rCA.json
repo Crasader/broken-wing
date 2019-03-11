@@ -1,6 +1,28 @@
 {
     "logs": [
         {
+            "outputFile": "/home/stano/AndroidStudioProjects/MobiTech/broken wing/Android Template Envato/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/stano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/2ab36d895ae44ac37099ed6a7623d534/res/values-en-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "99",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {

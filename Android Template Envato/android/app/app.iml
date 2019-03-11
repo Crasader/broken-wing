@@ -47,13 +47,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/debug/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/assets" type="java-test-resource" />
@@ -61,6 +54,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/assets" type="java-resource" />
@@ -116,6 +116,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-identifier:16.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-analytics-impl-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-appinvite:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-storage-common:12.0.1@aar" level="project" />
@@ -129,13 +130,11 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-annotations:26.1.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/libs/nineoldandroids-2.4.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-safetynet:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-panorama:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-messaging:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-wearable:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-wearable-license:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:common:1.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-api-phone-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-fido-license:12.0.1@aar" level="project" />
@@ -143,6 +142,7 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-safetynet-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-compat:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-drive-license:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/home/stano/AndroidStudioProjects/MobiTech/broken wing/Android Template Envato/android/app/libs/javax.inject-1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-base:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:palette-v7:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-places-license:12.0.1@aar" level="project" />
@@ -151,17 +151,19 @@
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics-impl-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-v4:26.1.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-license:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:16.0.3@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-iid:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-analytics:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-fido:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-wallet-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-media-compat:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-wallet:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/home/stano/AndroidStudioProjects/MobiTech/broken wing/Android Template Envato/android/app/libs/nineoldandroids-2.4.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tagmanager:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-location-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:26.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:16.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-auth-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tagmanager-api:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision:12.0.1@aar" level="project" />
@@ -176,22 +178,20 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cast-framework:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-analytics-impl:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base:16.0.4@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gcm-license:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-appindexing:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/libs/dagger-2.7.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cast-license:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-lite-license:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads:17.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-messaging-license:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-lite:17.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-nearby:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:26.1.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-lite:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:customtabs:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:26.1.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/libs/javax.inject-1.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/home/stano/AndroidStudioProjects/MobiTech/broken wing/Android Template Envato/android/app/libs/dagger-2.7.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-dynamic-links-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-storage-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-panorama-license:12.0.1@aar" level="project" />
@@ -199,6 +199,7 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-iid-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common-license:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-base:17.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-auth:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-vision-common-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-storage:12.0.1@aar" level="project" />
@@ -215,6 +216,7 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-games-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-places:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass:17.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tagmanager-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-storage-common-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gcm:12.0.1@aar" level="project" />
@@ -235,7 +237,6 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cast:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-analytics-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-plus-license:12.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement-license:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:26.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services:12.0.1@aar" level="project" />

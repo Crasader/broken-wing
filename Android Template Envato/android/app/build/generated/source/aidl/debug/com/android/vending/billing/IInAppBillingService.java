@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/android/app/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl
+ * Original file: /home/stano/AndroidStudioProjects/MobiTech/broken wing/Android Template Envato/android/app/src/main/aidl/com/android/vending/billing/IInAppBillingService.aidl
  */
 package com.android.vending.billing;
 /**
